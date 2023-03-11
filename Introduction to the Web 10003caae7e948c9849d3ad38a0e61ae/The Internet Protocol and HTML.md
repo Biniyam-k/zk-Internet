@@ -1,20 +1,19 @@
 # The Internet: Protocol and HTML
 
+---
 Internet protocols are a set of rules and standards that govern how data is transmitted over the Internet. These protocols are essential for enabling communication between devices on the Internet.
 
 Some of the most important Internet protocols include:
 
-Transmission Control Protocol (TCP) - a protocol that ensures reliable, ordered delivery of data between applications running on different devices.
+Internet Protocol (IP) - This is the protocol that provides the addressing and routing framework for data transmission over the Internet. IP allows packets of data to be sent from one device to another by specifying the source and destination addresses of each packet.
 
-Internet Protocol (IP) - a protocol that provides the addressing and routing framework for data transmission over the Internet.
+Transmission Control Protocol (TCP) - TCP ensures reliable, ordered delivery of data between applications running on different devices. It establishes a connection between devices and sets up a pathway for data transmission, ensuring that data is received without errors and in the correct order.
 
-Hypertext Transfer Protocol (HTTP) - a protocol used for transmitting and receiving web pages and other resources over the Internet.
+Hypertext Transfer Protocol (HTTP) - HTTP is the protocol used for transmitting and receiving web pages and other resources over the Internet. When a user requests a web page, their browser sends an HTTP request to the server hosting the web page, which then sends an HTTP response containing the requested data.
 
-Simple Mail Transfer Protocol (SMTP) - a protocol used for sending and receiving email messages over the Internet.
+File Transfer Protocol (FTP) - FTP is a protocol used for transferring files between devices over the Internet. It provides a secure and efficient way to upload and download files between devices.
 
-Domain Name System (DNS) - a protocol used for translating human-readable domain names into IP addresses that can be used by devices on the Internet.
-
-Overall, these protocols work together to ensure that data is transmitted securely, reliably, and efficiently over the Internet.
+Domain Name System (DNS) - DNS is a protocol used for translating human-readable domain names into IP addresses that can be used by devices on the Internet. This allows users to access websites using easy-to-remember domain names instead of having to remember IP addresses.
 
 
 In addition to IP addresses and DNS, protocols and HTML are also important components of the Internet. A protocol is a set of rules and standards that govern the exchange of data between devices and applications on a network. There are many different protocols used on the Internet,
